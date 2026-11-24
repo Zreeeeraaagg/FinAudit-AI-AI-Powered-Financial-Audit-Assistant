@@ -22,7 +22,14 @@
 
 ## Video demo
 
+![FinAudit AI demo, 20-second loop](https://github.com/user-attachments/assets/04187db4-e214-4a36-b793-0bf809f04a77)
+
+<details>
+<summary>Watch the full-resolution video with sound</summary>
+
 https://github.com/user-attachments/assets/626f8190-3c5c-486d-a564-16e9499efd46
+
+</details>
 
 <div align="center">
 
