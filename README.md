@@ -18,9 +18,13 @@
 
 <br>
 
-<a href="https://finaudit-ai-lemon.vercel.app/">
-  <img src="assets/demo.gif" alt="FinAudit AI Live Demo Walkthrough" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" />
-</a>
+</div>
+
+## Video demo
+
+https://github.com/user-attachments/assets/626f8190-3c5c-486d-a564-16e9499efd46
+
+<div align="center">
 
 <p align="center">
   <em>Autonomous multi-ledger verification that detects duplicate payments, statutory tax variances, and statistical anomalies in milliseconds.</em>
